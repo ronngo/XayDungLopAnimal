@@ -1,0 +1,13 @@
+D:\baitap\XayDungLopAnimal\bin\Debug\netcoreapp3.1\XayDungLopAnimal.exe
+D:\baitap\XayDungLopAnimal\bin\Debug\netcoreapp3.1\XayDungLopAnimal.deps.json
+D:\baitap\XayDungLopAnimal\bin\Debug\netcoreapp3.1\XayDungLopAnimal.runtimeconfig.json
+D:\baitap\XayDungLopAnimal\bin\Debug\netcoreapp3.1\XayDungLopAnimal.runtimeconfig.dev.json
+D:\baitap\XayDungLopAnimal\bin\Debug\netcoreapp3.1\XayDungLopAnimal.dll
+D:\baitap\XayDungLopAnimal\bin\Debug\netcoreapp3.1\XayDungLopAnimal.pdb
+D:\baitap\XayDungLopAnimal\obj\Debug\netcoreapp3.1\XayDungLopAnimal.csprojAssemblyReference.cache
+D:\baitap\XayDungLopAnimal\obj\Debug\netcoreapp3.1\XayDungLopAnimal.AssemblyInfoInputs.cache
+D:\baitap\XayDungLopAnimal\obj\Debug\netcoreapp3.1\XayDungLopAnimal.AssemblyInfo.cs
+D:\baitap\XayDungLopAnimal\obj\Debug\netcoreapp3.1\XayDungLopAnimal.csproj.CoreCompileInputs.cache
+D:\baitap\XayDungLopAnimal\obj\Debug\netcoreapp3.1\XayDungLopAnimal.dll
+D:\baitap\XayDungLopAnimal\obj\Debug\netcoreapp3.1\XayDungLopAnimal.pdb
+D:\baitap\XayDungLopAnimal\obj\Debug\netcoreapp3.1\XayDungLopAnimal.genruntimeconfig.cache
